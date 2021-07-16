@@ -6,8 +6,3 @@ ls [-la] (linux) -> lista os arquivos dentro da pasta que você está [lista tam
 dir [\a] (windows) -> lista os arquivos dentro da pasta que você está [lista também os ocultos]
 pwd -> mostra a pasta que você está agora
 clear/cls (ctrl+L) -> limpa a tela
-
-# Comandos GIT
-
-init -> inicia um repositório git na pasta que você está
-status-> verifica o status dos arquivos do repositório

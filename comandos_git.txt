@@ -1,0 +1,4 @@
+# Comandos GIT
+
+init -> inicia um repositório git na pasta que você está
+status-> verifica o status dos arquivos do repositório
