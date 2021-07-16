@@ -1,4 +1,13 @@
 # Comandos GIT
 
-init -> inicia um repositório git na pasta que você está
-status-> verifica o status dos arquivos do repositório
+$> git init         // Cria um novo repositório
+$> git add          // Adiciona arquivos ao índice (staging area)
+$> git reset HEAD   // Retira arquivos do índice (staging area)
+$> git rm           // Remove arquivo
+$> git status       // Verifica o estado dos arquivos do repositório
+$> git checkout     // Restaura o estado inicial do arquivo onde foi criado o check point
+$> git switch -     // 
+$> git switch -c    // 
+$> git commit       // Manda as alterações para o repositório e cria um check point
+$> git log          // Mostra todos os commits realizados
+$> git config       // permite ver e atribuir variáveis de configuração que controlam todos os aspectos de como o Git aparece e opera
