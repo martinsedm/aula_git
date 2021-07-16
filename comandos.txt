@@ -11,3 +11,6 @@ clear/cls (ctrl+L) -> limpa a tela
 
 init -> inicia um repositório git na pasta que você está
 status-> verifica o status dos arquivos do repositório
+add -> adiciona os arquivos modificados à índice (Staging Area)
+config -> permite ver e atribuir variáveis de configuração que controlam todos os aspectos de como o Git aparece e opera.
+git commit -> commita (faz um check point) os arquivos do índice (Saging Area)
