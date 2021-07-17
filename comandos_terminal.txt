@@ -1,0 +1,8 @@
+# Comando de Terminal
+
+cd <pasta> -> entra na pasta 
+mkdir <pasta> -> cria umannova pasta com nome "pasta"
+ls [-la] (linux) -> lista os arquivos dentro da pasta que você está [lista também os ocultos]
+dir [\a] (windows) -> lista os arquivos dentro da pasta que você está [lista também os ocultos]
+pwd -> mostra a pasta que você está agora
+clear/cls (ctrl+L) -> limpa a tela
